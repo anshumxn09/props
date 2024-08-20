@@ -2,7 +2,7 @@ server:
   port: 9000
 
 cards:
-  message: "Welcome to EazyBank cards related local APIs "
+  message: "Welcome to EazyBank cards related locals APIs "
   contactDetails:
     name: "John Doe - Developer"
     email: "john@eazybank.com"

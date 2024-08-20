@@ -2,7 +2,7 @@ server:
   port: 8090
 
 loans:
-  message: "Welcome to EazyBank loans related local APIs "
+  message: "Welcome to EazyBank loans related locals APIs "
   contactDetails:
     name: "John Doe - Developer"
     email: "john@eazybank.com"
