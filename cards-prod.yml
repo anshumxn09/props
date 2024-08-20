@@ -1,7 +1,7 @@
 cards:
-  message: "Welcome to EazyBank cards related Prod APIs "
+  message: "Welcome to EazyBank cards related Prod Webhooks APIs "
   contactDetails:
-    name: "John Doe - Developer WebHooks"
+    name: "John Doe - Developer"
     email: "john@eazybank.com"
   onCallSupport:
     - (555) 555-1234
